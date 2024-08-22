@@ -61,6 +61,11 @@
   <td>Ứng dụng hỗ trợ người bị bệnh câm</td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"/> Java</td>
 </tr>
+<tr>
+  <td><a href="https://github.com/Phuongnam1610/DemoAutoSendFriendRiot">💡 DemoAutoSendFr</a></td>
+  <td>Demo dự án tự động gửi kết bạn riot mobile</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="java logo"/> Python</td>
+</tr>
 
   </tbody>
 </table>
