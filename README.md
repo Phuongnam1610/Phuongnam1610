@@ -57,7 +57,7 @@
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20" alt="kotlin logo"/> Kotlin</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/Phuongnam1610/project2">💡 App SFM</a></td>
+  <td><a href="https://github.com/Phuongnam1610/SFMApp">💡 App SFM</a></td>
   <td>Ứng dụng hỗ trợ người bị bệnh câm</td>
   <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"/> Java</td>
 </tr>
