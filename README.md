@@ -64,7 +64,7 @@
     <tr>
   <td><a href="https://github.com/Phuongnam1610/DATN_PANTHER">🚀 ĐATN</a></td>
   <td>ĐỒ ÁN TỐT NGHIỆP HỆ THỐNG ĐẶT XE CÔNG NGHỆ</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="20" alt="kotlin logo"/> Kotlin</td>
+  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20" alt="flutter logo"/> Kotlin</td>
 </tr>
 <tr>
   <td><a href="https://github.com/Phuongnam1610/SFMApp">💡 App SFM</a></td>
