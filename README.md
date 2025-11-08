@@ -52,9 +52,7 @@
   </thead>
   <tbody>
     <tr>
-  <td><a href="https://github.com/Phuongnam1610/AppAndroidShareProx">💡 App ShareProx</a></td>
-  <td>Ứng dụng chia sẻ đồ dùng</td>
-  <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"/> Java</td>
+ 
 </tr>
    <tr>
   <td><a href="https://github.com/Phuongnam1610/Quotes">🚀 App Quotes</a></td>
